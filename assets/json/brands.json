@@ -1,0 +1,62 @@
+[
+        {
+            "name_ar":"كوكا كولا",
+            "name_en":"Coca Cola",
+            "is_open":true,
+            "location":15,
+            "site_en":"Latakia",
+            "site_ar": "اللاذقية",
+            "logo":"assets/images/brands/cocacola.png",
+            "phone": "0999 888 444"
+        },
+        {
+            "name_ar":"آبل سوريا",
+            "name_en":"Apple Syria",
+            "is_open":true,
+            "location":10,
+            "site_en":"Homs",
+            "site_ar": "حمص",
+            "logo":"assets/images/brands/apple.png",
+            "phone": "0987 654 321"
+        },
+        {
+            "name_ar":"كي اف سي",
+            "name_en":"KFC",
+            "is_open":false,
+            "location":5,
+            "site_en":"Damascus",
+            "site_ar": "دمشق",
+            "logo":"assets/images/brands/kfc.png",
+            "phone": "0963 852 741"
+        },
+        {
+            "name_ar":"ملك البرغر",
+            "name_en":"Burger King",
+            "is_open":true,
+            "location":null,
+            "site_en":"Al-Dablan St.",
+            "site_ar": "شارع الدبلان",
+            "logo":"assets/images/brands/Burgerking.png",
+            "phone": "0951 623 847"
+        },
+        {
+            "name_ar":"سامسونغ",
+            "name_en":"Samsung",
+            "is_open":false,
+            "location":100,
+            "site_en":"Hwash",
+            "site_ar": "الحواش",
+            "logo":"assets/images/brands/samsung.png",
+            "phone": "0915 487 263"
+        },
+        {
+            "name_ar":"هواوي",
+            "name_en":"Huawei",
+            "is_open":false,
+            "location":null,
+            "site_en":"Homs",
+            "site_ar": "حمص",
+            "logo":"assets/images/brands/huawei.png",
+            "phone": "0989 989 989"
+        }
+    ]
