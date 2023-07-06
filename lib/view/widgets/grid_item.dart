@@ -10,7 +10,7 @@ class GridItem extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return  Container(
-      height: 233.h,
+      height: 233.w,
       width: 179.9.w,
       decoration: BoxDecoration(
       ),
